@@ -3,6 +3,12 @@
 This is my AWS Lambda Typescript starter. Enjoy
 
 ## Usage
+Clone the Project and run
+
+```
+npm install
+```
+
 When you are ready to compile run
 
 ```
